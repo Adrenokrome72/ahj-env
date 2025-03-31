@@ -1,1 +1,1 @@
-# ahj-env
+![CI](https://github.com/Adrenokrome72/ahj-env/actions/workflows/web.yml/badge.svg)
